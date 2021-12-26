@@ -10,7 +10,7 @@ Para información mas detallada leer el pdf Andypolis la construccion.pdf que se
 
 ## Partes previas
 Para ver el código correspondiente a la parte 1 de 3 del trbajo práctico dirigirse a:
-[Tp Andypolis: Los cimientos](https://github.com/germandus/Tp-Andypolis-la-construccion)
+[Tp Andypolis: Los cimientos](https://github.com/germandus/Tp-Andypolis-los-cimientos)
 
 ## Continuación
 
@@ -20,5 +20,4 @@ Para la parte 3 del trabajo práctico dirirse a:
 
 En la misma se agrega agregan funcionalidades al programa para convertirlo en un juego que se gana construyendo un 
 obelisco o cumpliendo objetivos secundarios. En esta tercera parte se incorporan 2 jugadores y se agrega un grafo
-para que los mismos se muevan por el mapa siguiendo el camino de menor peso. Para más información leer el pdf
-"Andypolis la batalla por el obelisco v1.6".
+para que los mismos se muevan por el mapa siguiendo el camino de menor peso.

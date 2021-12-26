@@ -8,6 +8,10 @@ en un mapa y además se agregan opciones al menú como lo es, por ejemplo una ll
 el mapa.
 Para información mas detallada leer el pdf Andypolis la construccion.pdf que se encuentra en la carpeta "instrucciones"
 
+## Partes previas
+Para ver el código correspondiente a la parte 1 de 3 del trbajo práctico dirigirse a:
+[Tp Andypolis: Los cimientos](https://github.com/germandus/Tp-Andypolis-los-cimientos)
+
 ## Continuación
 
 Para la parte 3 del trabajo práctico dirirse a:
